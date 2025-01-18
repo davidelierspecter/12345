@@ -5,5 +5,7 @@ int main()
 
 }
 
-bool hola();
+
+int hola();
+
 

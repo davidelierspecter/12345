@@ -3,6 +3,10 @@
 *.vcxproj.user
 *.vcxproj.filters
 
+# Builds
+app/
+
+
 # Build artifacts
 *.exe
 *.obj

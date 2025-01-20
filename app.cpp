@@ -1,12 +1,14 @@
 #include <iostream>
 
 
-int MainFunction()
+void MainFunction()
 {
 
 }
 
 
-int hola();
+int hola(){
+	std::cout << "Hola";
+}
 
 

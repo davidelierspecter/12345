@@ -1,7 +1,7 @@
 #include <iostream>
 
 
-void MainFunction()
+void main()
 {
 
 }

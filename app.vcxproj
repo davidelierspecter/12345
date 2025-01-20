@@ -131,6 +131,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Enemy.h" />
+    <ClInclude Include="src\Source\Enemy.h" />
+    <ClInclude Include="src\Source\IA.h" />
+    <ClInclude Include="src\Source\Weapon.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,14 +1,10 @@
 #include <iostream>
 
 
-void MainFunction()
+void main()
 {
 
 }
 
-
-int hola(){
-	std::cout << "Hola";
-} // feature
 
 
